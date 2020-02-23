@@ -15,4 +15,6 @@
 ## Power toggle switch
 [toggle switch](https://www.sparkfun.com/products/9276)
 
+## SPI Micro SD Card Adapter
+
 ## Power status LED
