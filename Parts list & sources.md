@@ -12,11 +12,19 @@
 
 ## Enclosure
 [ABS Enclosure, Heavy Duty, Gray - 168x107x53mm (6.6x4.2x2.1in)](https://solarbotics.com/product/171979)
+
 Rubber Feet
+
 9v battery enclosure
+
 9V power hat
+
 9v Power supply
+
 Power status LED + mount
+
 [stomp switch](https://www.sparkfun.com/products/15133)
+
 [toggle switch](https://www.sparkfun.com/products/9276)
+
 USB Cable
